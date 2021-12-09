@@ -1,0 +1,56 @@
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(233, 238, 245);
+    background-color: rgb(172, 51, 72);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(233, 238, 245)
+
+}
+li {
+font-size: 15px;
+font-style:italic;
+
+}
+
+a:hover {
+    color: rgb(27, 100, 27) ;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+a:visited {
+ color: wheat;
+}
+
+.bold {
+font-weight: bold;
+
+
+}
+.home-bg{
+    background-image: url("images/blue\ byu.jpeg");
+    /* opacity: 0.5; */
+}
+
+.boxl{
+border-width: 3px;
+border-style: solid;
+border-color: orange;
+
+}
+
+.boxe{
+padding: 30px;
+
+}
+
+.boxr{
+
+    margin: 50px;
+}
